@@ -12,8 +12,8 @@ Float : Floating point type(one or more decimals)
 Complex : written with a imaginary number.
 <br>
 ex : 
-num = 24
-rate = 3.14
+num = 24 ,
+rate = 3.14 ,
 com = 8j
 <br>
 2.Strings : used to store texts and  are usual enclosed btw '' or "".Any string can only start with an alphabet or underscore (_). 
