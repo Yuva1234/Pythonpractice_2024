@@ -42,4 +42,10 @@ This is my first commit.
 
 ### Mutable data types 
 Dictionaries 
-## Operatio 12345 ##
+## Operation  ##
+<br>
+Arithematic operators
+<br>
+Comparision operators
+<br>
+Logical operators
