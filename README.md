@@ -42,4 +42,11 @@ This is my first commit.
 
 ### Mutable data types 
 Dictionaries 
+
 ## Operation ##
+<br>
+Arithmatic 
+<br>
+Logical
+<br>
+Comparision
