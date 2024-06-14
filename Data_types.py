@@ -42,8 +42,12 @@ print(type(weeks))  ## Type labels the type of data type ##
 f1 = float(input("Enter the f1 : "))
 f2 = float(input("Enter the f2 : "))
 sum = f1 + f2
-print(f"The sum of {f1} and {f2} is {sum} \n")
+print(f"The sum of {f1} and {f2} is {sum} \n")   
 
+num1 = float(input("Enter first number : "))
+num2 = float(input("Enter second number : "))
+sum = num1 + num2
+print(f"The sum of {num1} and {num2} is {sum} \n")
 
 
 
